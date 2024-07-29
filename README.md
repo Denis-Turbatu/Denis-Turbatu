@@ -1,14 +1,12 @@
-<div>
-    # Benvenuto nel mio Profilo GitHub!
-    
-    Ciao! Sono Denis😄, un Junior Full Stack Developer, un appassionato del mondo IT.
-    Ogni giorno mi aggiorno su:
-    - Sviluppo web
-    - Sicurezza informatica
-    - Ingegneria e matematica.
-    
-    Anche se non frequento l'università, studio in modo autonomo per espandere le mie conoscenze e migliorare le mie competenze.
-</div>
+# Benvenuto nel mio Profilo GitHub!
+
+Ciao! Sono Denis😄, un Junior Full Stack Developer, un appassionato del mondo IT. 
+Ogni giorno mi aggiorno su: 
+- Sviluppo web
+- Sicurezza informatica
+- Ingegneria e matematica.
+
+Anche se non frequento l'università, studio in modo autonomo per espandere le mie conoscenze e migliorare le mie competenze.
 
 ## Chi sono
 
