@@ -1,12 +1,14 @@
-# Benvenuto nel mio Profilo GitHub!
-
-Ciao! Sono Denis😄, un Junior Full Stack Developer, un appassionato del mondo IT. 
-Ogni giorno mi aggiorno su: 
-- Sviluppo web
-- Sicurezza informatica
-- Ingegneria e matematica.
-
-Anche se non frequento l'università, studio in modo autonomo per espandere le mie conoscenze e migliorare le mie competenze.
+<div>
+    # Benvenuto nel mio Profilo GitHub!
+    
+    Ciao! Sono Denis😄, un Junior Full Stack Developer, un appassionato del mondo IT.
+    Ogni giorno mi aggiorno su:
+    - Sviluppo web
+    - Sicurezza informatica
+    - Ingegneria e matematica.
+    
+    Anche se non frequento l'università, studio in modo autonomo per espandere le mie conoscenze e migliorare le mie competenze.
+</div>
 
 ## Chi sono
 
@@ -27,6 +29,7 @@ Anche se non frequento l'università, studio in modo autonomo per espandere le m
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" align="left" width="30px" style="padding-right:10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mySQL" align="left" width="30px" style="padding-right:10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="LARAVEL" align="left" width="30px" style="padding-right:10px;">
+
 <br>
 
 ## Statistiche GitHub
