@@ -1,12 +1,46 @@
-# Denis Turbatu
+# Benvenuto nel mio Profilo GitHub!
 
-**`Junior Full Stack Developer`**
+Ciao! Sono Denis😄, un Junior Full Stack Developer, un appassionato del mondo IT. 
+Ogni giorno mi aggiorno su: 
+- Sviluppo web
+- Sicurezza informatica
+- Ingegneria e matematica.
 
-Descrizione.
+Anche se non frequento l'università, studio in modo autonomo per espandere le mie conoscenze e migliorare le mie competenze.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/denis-turbatu-573388303/" title="Linkedin"></a>
-  <a href="" title="X (Twitter)"></a>
-  <a href="" title="Linkedin"></a>
-  
-</p>
+## Chi sono
+
+- 🌱 Attualmente sto imparando: Nuxt v3, Typescript e Tailwind
+- 💬 Chiedimi di: Sviluppo web, sicurezza informatica, ingegneria e matematica
+- 🔭 Sono interessato anche al mondo dell'astronomia
+- 📫 Come contattarmi: [Email](#email), [LinkedIn](#linkedin), [X](#x)
+
+## Tecnologie e Strumenti
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" align="left" width="30px" style="padding-right:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" align="left" width="30px" style="padding-right:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="SASS" align="left" width="30px" style="padding-right:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="BOOTSTRAP" align="left" width="30px" style="padding-right:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" align="left" width="30px" style="padding-right:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="VUE.JS" align="left" width="30px" style="padding-right:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="VITE" align="left" width="30px" style="padding-right:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" align="left" width="30px" style="padding-right:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mySQL" align="left" width="30px" style="padding-right:10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="LARAVEL" align="left" width="30px" style="padding-right:10px;">
+
+
+## Statistiche GitHub
+
+![Le mie Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=Denis-Turbatu&theme=dracula&show_icons=true)
+
+![Linguaggi più Usati](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Turbatu&theme=dracula&hide_progress=true)
+
+## Connettiti con me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-turbatu-573388303/)
+[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/tuo-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](turbatudenis34@gmail.com)
+
+## Grazie per la Visita!
+
+Se ti piacciono i miei progetti, sentiti libero/a di contattarmi o collaborare con me👋​.
