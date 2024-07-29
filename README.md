@@ -27,7 +27,7 @@ Anche se non frequento l'università, studio in modo autonomo per espandere le m
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" align="left" width="30px" style="padding-right:10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mySQL" align="left" width="30px" style="padding-right:10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="LARAVEL" align="left" width="30px" style="padding-right:10px;">
-
+<br>
 
 ## Statistiche GitHub
 
