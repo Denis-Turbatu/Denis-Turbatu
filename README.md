@@ -38,7 +38,8 @@ Anche se non frequento l'università, studio in modo autonomo per espandere le m
 
 ## Connettiti con me
 
-<a href="https://www.linkedin.com/in/denis-turbatu-573388303/" target="_blank">
+<div style="display:flex">
+  <a href="https://www.linkedin.com/in/denis-turbatu-573388303/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
@@ -47,6 +48,7 @@ Anche se non frequento l'università, studio in modo autonomo per espandere le m
 </a>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:turbatudenis34@gmail.com)
+</div>
 
 
 ## Grazie per la Visita!
