@@ -39,10 +39,22 @@ Anche se non frequento l'università, studio in modo autonomo per espandere le m
 ## Connettiti con me
 
 <div style="display: flex;">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/denis-turbatu-573388303/" target="_blank")
-  
-[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)]("https://x.com/d_turbatu" target="_blank")
+  <a href="https://www.linkedin.com/in/denis-turbatu-573388303/" onclick="window.open(this.href); return false;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+  </a>
 
+
+<a href="https://x.com/d_turbatu" target="_blank">
+  <a href="https://x.com/d_turbatu" onclick="window.open(this.href); return false;">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
+</a>
+  </a>
+
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:turbatudenis34@gmail.com)
   <a href="mailto:turbatudenis34@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
