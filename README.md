@@ -10,7 +10,7 @@ Anche se non frequento l'università, studio in modo autonomo per espandere le m
 
 ## Chi sono
 
-- 🌱 Attualmente sto imparando: Angular 18, Typescript e Tailwind
+- 🌱 Attualmente sto imparando: Angular 18, Node.JS, Express e MongoDB
 - 💬 Chiedimi di: Sviluppo web, sicurezza informatica, ingegneria e matematica
 - 🔭 Sono interessato anche al mondo dell'astronomia
 - 📫 Come contattarmi: [Email](#email), [LinkedIn](#linkedin), [X](#x)
