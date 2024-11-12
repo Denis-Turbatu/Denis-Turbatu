@@ -13,7 +13,7 @@ Anche se non frequento l'università, studio in modo autonomo per espandere le m
 - 🌱 Attualmente sto imparando: Angular 18, Node.JS, Express e MongoDB
 - 💬 Chiedimi di: Sviluppo web, sicurezza informatica, ingegneria e matematica
 - 🔭 Sono interessato anche al mondo dell'astronomia
-- 📫 Come contattarmi: [Email](turbatudenis34@gmail.com), [LinkedIn](https://www.linkedin.com/in/denis-turbatu-573388303/), [X](https://x.com/d_turbatu), [Portfolio](turbatudenis34@gmail.com)
+- 📫 Come contattarmi: [Email](turbatudenis34@gmail.com), [LinkedIn](https://www.linkedin.com/in/denis-turbatu-573388303/), [X](https://x.com/d_turbatu), [Portfolio](turbatudenis.it)
 
 ## Tecnologie e Strumenti
 
