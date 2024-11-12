@@ -13,7 +13,7 @@ Anche se non frequento l'università, studio in modo autonomo per espandere le m
 - 🌱 Attualmente sto imparando: Angular 18, Node.JS, Express e MongoDB
 - 💬 Chiedimi di: Sviluppo web, sicurezza informatica, ingegneria e matematica
 - 🔭 Sono interessato anche al mondo dell'astronomia
-- 📫 Come contattarmi: [Email](#email), [LinkedIn](#linkedin), [X](#x)
+- 📫 Come contattarmi: [Email](#email), [LinkedIn](#linkedin), [X](#x), [Portfolio](#portfolio)
 
 ## Tecnologie e Strumenti
 
@@ -31,8 +31,6 @@ Anche se non frequento l'università, studio in modo autonomo per espandere le m
 <br>
 
 ## Statistiche GitHub
-
-![Le mie Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=Denis-Turbatu&theme=dracula&show_icons=true)
 
 ![Linguaggi più Usati](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Turbatu&theme=dracula&hide_progress=true)
 
