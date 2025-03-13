@@ -11,9 +11,8 @@ Anche se non frequento l'università, studio in modo autonomo per espandere le m
 ## Chi sono
 
 - 🌱 Attualmente sto imparando: Angular 18, Node.JS, Express e MongoDB
-- 💬 Chiedimi di: Sviluppo web, sicurezza informatica, ingegneria e matematica
-- 🔭 Sono interessato anche al mondo dell'astronomia
-- 📫 Come contattarmi: [Email](turbatudenis34@gmail.com), [LinkedIn](https://www.linkedin.com/in/denis-turbatu-573388303/), [X](https://x.com/d_turbatu), [Portfolio](turbatudenis.it)
+- 🔭 Sono interessato anche al mondo dell'astronomia, fotografia e musica
+- 📫 Come contattarmi: [Email](turbatudenis34@gmail.com), [LinkedIn](https://www.linkedin.com/in/denis-turbatu/), [Portfolio](turbatudenis.it)
 
 ## Tecnologie e Strumenti
 
@@ -30,19 +29,11 @@ Anche se non frequento l'università, studio in modo autonomo per espandere le m
 
 <br>
 
-## Statistiche GitHub
-
-![Linguaggi più Usati](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Turbatu&theme=dracula&hide_progress=true)
-
 ## Connettiti con me
 
 <div style="display: flex;">
-  <a href="https://www.linkedin.com/in/denis-turbatu-573388303/" onclick="window.open(this.href); return false;">
+  <a href="https://www.linkedin.com/in/denis-turbatu/" onclick="window.open(this.href); return false;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-
-  <a href="https://x.com/d_turbatu" onclick="window.open(this.href); return false;">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
   </a>
 
   <a href="mailto:turbatudenis34@gmail.com">
@@ -50,7 +41,4 @@ Anche se non frequento l'università, studio in modo autonomo per espandere le m
   </a>
 </div>
 
-
 ## Grazie per la Visita!
-
-Se ti piacciono i miei progetti, sentiti libero/a di contattarmi o collaborare con me👋​.
